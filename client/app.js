@@ -1,0 +1,3 @@
+$("#homeLink").click(()=>{
+    alert("Home");
+})

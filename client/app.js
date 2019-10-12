@@ -1,3 +1,3 @@
 $("#homeLink").click(()=>{
-    alert("Home");
+    alert("Home2");
 })
